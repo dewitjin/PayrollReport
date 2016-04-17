@@ -41,7 +41,7 @@ This assignment turned out to be very useful because I can modify the content in
 This project was built using Visual Studio 2015 (VS) and uses the C++ compiler that comes with VS. In order for the application to run smoothly the EmployeePayInput.txt has to be included at solution level.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dewitjin/PayRollReport/master/images/error.png" width="400">
+  <img src="https://raw.githubusercontent.com/dewitjin/PayRollReport/master/images/files.png" width="400">
 </p>
 
 There are many things you could do to expand this project.  This console application, however, will help you produce a pretty neat Payroll Report right now without modifications.
@@ -55,7 +55,7 @@ None right now.
 If data is invalid, then the console will output error messages.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dewitjin/PayRollReport/master/images/error.png" width="400">
+  <img src="https://raw.githubusercontent.com/dewitjin/PayRollReport/master/images/errors.png" width="400">
 </p>
 
 ## Contributors
