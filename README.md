@@ -2,7 +2,9 @@
 
 This console application helps small business owners to produce a Payroll Report.  
 
-![alt tag](https://raw.githubusercontent.com/dewitjin/PayRollReport/master/images/report.png | width=100)
+![alt tag](https://raw.githubusercontent.com/dewitjin/PayRollReport/master/images/report.png)
+
+<img src="https://raw.githubusercontent.com/dewitjin/PayRollReport/master/images/report.png" width="100">
 
 Essentially, this is a template to read and write text files using C++.  Each line in the text file called EmployeePayInput.txt contains a set of employee data, and each data is separated by a null (space).  After each data is read in, it is validated and assign to the appropriate variables, such that we have data for social insurance number, gross pay, net pay, pension and deduction.
 
