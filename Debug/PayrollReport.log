@@ -1,0 +1,6 @@
+﻿  ReadWriteFiles_Start.cpp
+c:\users\dewi\documents\visual studio 2015\projects\payrollreport\readwritefiles_start.cpp(210): warning C4101: 'validInput': unreferenced local variable
+c:\users\dewi\documents\visual studio 2015\projects\payrollreport\readwritefiles_start.cpp(223): warning C4101: 'validInput': unreferenced local variable
+c:\users\dewi\documents\visual studio 2015\projects\payrollreport\readwritefiles_start.cpp(235): warning C4101: 'validInput': unreferenced local variable
+c:\users\dewi\documents\visual studio 2015\projects\payrollreport\readwritefiles_start.cpp(247): warning C4101: 'validInput': unreferenced local variable
+  PayrollReport.vcxproj -> c:\users\dewi\documents\visual studio 2015\Projects\PayrollReport\Debug\PayrollReport.exe
